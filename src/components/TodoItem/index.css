@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.Todo-item {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+p {
+  margin-right: 40px;
+  color: #000000;
+}
+.btn {
+  height: 30px;
+  width: 80px;
+  margin-top: 15px;
+  background-color: #ffffff;
+  color: #ff0b37;
+  border: 1px solid #ff0b37;
+  border-radius: 8px;
+  font-family: 'Roboto';
+  cursor: pointer;
+  outline: none;
+}

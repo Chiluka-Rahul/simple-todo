@@ -1,0 +1,24 @@
+/* Write your CSS here */
+.container {
+  background-color: #ffc2a0;
+  background-size: cover;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+}
+.todo-container {
+  background-color: #ffffff;
+  padding: 15px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  list-style: none;
+  border-radius: 20px;
+  width: 70%;
+}
+.heading {
+  color: #ff8542;
+  padding-top: 25px;
+}
